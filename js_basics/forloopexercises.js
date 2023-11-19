@@ -11,3 +11,13 @@ const num = 2;
 for(let i = 1; i <= 10; i++){
     console.log(`2 X ${i} = ${num * i}`);
 }
+
+// `I am afnan ${num}`
+
+
+// HOMEWORK
+
+// 1. Even numbers from 1 - 30
+// 2. Odd numbers from 1 - 30
+// 3. Muliplication table
+// 4. Sum of an array
