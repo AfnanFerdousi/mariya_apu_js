@@ -50,3 +50,14 @@ const result = studentsOfClassAbc.map(student => {
 // arrayName.map(elementName => {
     // do your thing here
 // })
+
+norway 
+cybersecurity 
+rnd 
+sales channel 
+product list lifecycle 
+changes 
+redesign 
+
+Ohio 
+Garden Supply 
